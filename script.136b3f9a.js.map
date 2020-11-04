@@ -1,0 +1,1 @@
+{"version":3,"sources":["script/index.js"],"names":["date","Date","document","getElementById","innerHTML"],"mappings":";AAAA,IAAIA,EAAO,IAAIC,KACfC,SAASC,eAAe,QAAQC,UAAYJ","file":"script.136b3f9a.js","sourceRoot":"..\\src","sourcesContent":["var date = new Date();\r\ndocument.getElementById(\"date\").innerHTML = date;"]}
